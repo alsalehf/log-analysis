@@ -1,6 +1,6 @@
 # Logs Analysis Project.
 # DB code for news DB.
-# Python version 3.7.0
+# Python version 3.5.2
 # Author: Fatima Alsaleh
 
 import psycopg2
