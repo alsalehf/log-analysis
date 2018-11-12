@@ -8,4 +8,4 @@ It connects to **PSQL** database using **Python 3.5.2** and the python library: 
 \
 Run these in the command line to run the project:\
 `cd log-analysis-project`\
-`python3 log-analysis.py`\
+`python3 log-analysis.py`
